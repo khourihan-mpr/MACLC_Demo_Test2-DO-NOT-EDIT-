@@ -1,3 +1,4 @@
 /.conda
 /build
 /My_Package.egg-info
+Test_pkg/Test_module/__pycache__
