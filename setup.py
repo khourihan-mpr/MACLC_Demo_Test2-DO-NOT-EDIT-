@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-from Test_pkg.Test_module import __version__
+from Test_pkg import __version__
 
 setup(
     name="MACLC_Test_Functions",
