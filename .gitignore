@@ -2,3 +2,7 @@
 /build
 /My_Package.egg-info
 Test_pkg/Test_module/__pycache__
+MACLC_Test_Functions.egg-info/dependency_links.txt
+MACLC_Test_Functions.egg-info/PKG-INFO
+MACLC_Test_Functions.egg-info/SOURCES.txt
+MACLC_Test_Functions.egg-info/top_level.txt
